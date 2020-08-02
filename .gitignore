@@ -40,6 +40,9 @@ doxygen/
 /keyboards/*/*/*/*/keymaps/Makefile
 /keyboards/*/*/*/*/*/keymaps/Makefile
 
+# Command Line PIP VENV
+env 
+
 # Eclipse/PyCharm/Other IDE Settings
 .cproject
 .project
